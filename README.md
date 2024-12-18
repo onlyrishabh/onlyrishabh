@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<Docker,TypeScript>🎯 Goals: ...<br>🎲 Fun fact: ...<>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<Docker,TypeScript>
 
 ###
 
