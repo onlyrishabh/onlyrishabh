@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is rishabh kumar singh 
+<p align="left">Software Engineer
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<Docker,TypeScript>
+
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm  from Ambala.<br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm currently learning Devops<br>- ⚡ In my free time I playing cricket</p>
 
 ###
 
